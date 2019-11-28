@@ -1,4 +1,7 @@
 Sudoku-Extension
 ----------------
 
-Web? based sudoku generator and solver
+Sudoku solver
+
+Versions:
+1. Backtracking in C++
